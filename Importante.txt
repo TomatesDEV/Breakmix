@@ -1,6 +1,7 @@
 git config --global user.email "jose.miguel43212@gmail.com"
   git config --global user.name "TomatesDEV"
 
+escribir en la barra del explorador "CMD"
 git add .
 git commit -m "pagina"
 git push 
